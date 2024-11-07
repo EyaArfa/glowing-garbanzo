@@ -1,1 +1,3 @@
-# 3-level game in which you have to find the right path out of the maze.
+# 3D Game
+A 3-level 3D maze, that the player should find his way out by finding the right way out while avoiding the zombies and collecting the coins.
+ 
